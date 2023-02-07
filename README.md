@@ -3,6 +3,8 @@ MASSIVE CREDIT TO 3kh0 for lots of these games and giving me hours of fun in sch
  like my google sites, dont expect this to be super high quality like 3kh0, i'm still learning github pages.
 Also, if this gets blocked I truly don't know what i'm going to do, maybe make another website or something? Incase this site gets blocked keep the old google sites bookmarked and use the internet glitch to get by to see the new link.
 
+new suggestions email! duckysgames69420@gmail.com
+
 
 [1v1.lol](https://ducky443747.github.io/1v1lol/)
 
