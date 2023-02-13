@@ -1,4 +1,7 @@
-remote_theme: StartBootstrap/startbootstrap-grayscale
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: zivhub/monophase@main
 markdown: GFM
 
 
