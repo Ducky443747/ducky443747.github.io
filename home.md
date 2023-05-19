@@ -16,3 +16,7 @@ new suggestions email! duckysgames69420@gmail.com
 
 [minecraft 1.8](https://ducky443747.github.io/minecraft-18/)
 
+[riddle school transfer 1](https://ducky443747.github.io/riddletransfer/)
+
+[riddle school transfer 2](https://ducky443747.github.io/riddletransfer2/)
+
