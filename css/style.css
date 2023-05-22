@@ -9,6 +9,10 @@ box-shadow: none;
 transform: translateY(5px);
 }
 font-family: 'Poppins', sans-serif;
+@font-face {
+    font-family:Poppins ;
+    src: url(Poppins-Regular.ttf);
+}
 color: azure;
 height:100vh;
 background-image: linear-gradient(to bottom right, purple, rgb(69, 69, 255));
