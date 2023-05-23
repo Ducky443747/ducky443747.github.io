@@ -18,9 +18,9 @@
     body {    background: linear-gradient(326deg, #4545ff, #9674f9, #7f36fa, #f019f0);
         background-size: 800% 800%;
     
-        -webkit-animation: AnimatedGradient 15s ease infinite;
-        -moz-animation: AnimatedGradient 15s ease infinite;
-        animation: AnimatedGradient 15s ease infinite;}
+        -webkit-animation: AnimatedGradient 12s ease infinite;
+        -moz-animation: AnimatedGradient 12s ease infinite;
+        animation: AnimatedGradient 12s ease infinite;}
     
     
     
