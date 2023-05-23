@@ -1,10 +1,10 @@
 
 body{
-.button {
+.fun {
 box-shadow: 0 5px 0 #252128;
 border-radius: 15px;
 }
-.button:active {
+.fun:active {
 box-shadow: none;
 transform: translateY(5px);
 }
@@ -16,4 +16,9 @@ font-family: 'Poppins', sans-serif;
 color: azure;
 height:100vh;
 background-image: linear-gradient(to bottom right, purple, rgb(69, 69, 255));
+}
+.fun {
+padding: 0.25em, 0.75em;
+font-size: 1rem;
+
 }
