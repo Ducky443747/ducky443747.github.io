@@ -13,6 +13,9 @@ font-family: 'Poppins', sans-serif;
     font-family: Poppins;
     src: url(Poppins-Regular);
 }
+background-size: 300%;
+background-position: left;
+transition: background-position 1s;
 color: azure;
 height:100vh;
 background-image: linear-gradient(to bottom right, purple, rgb(69, 69, 255));
