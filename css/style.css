@@ -13,13 +13,26 @@ font-family: 'Poppins', sans-serif;
     font-family: Poppins;
     src: url(Poppins-Regular);
 }
-background-size: 300%;
-background-position: left;
-transition: background-position 1s;
+
 color: azure;
 height:100vh;
-background-image: linear-gradient(to bottom right, purple, rgb(69, 69, 255));
+background-image: linear-gradient(to bottom right, rgb(69, 69, 255), purple, red,pink);
+background-size: 300% 300%;
+animation: color 12s ease-in-out infinite;
+@keyframes color{
+0%{
+background-position: 0 50%;
 }
+50%{
+    background-position: 100% 50%;
+    }
+    100%{
+        background-position: 0 50%;
+        }
+}
+
+}
+
 .fun {
 padding: 0.25em, 0.75em;
 font-size: 1rem;
