@@ -15,7 +15,6 @@ body {font-family: 'Poppins', sans-serif;
 
 }
 .gradientbackground {
-    background-color: #fff;
     height: 100%;
     width: 100%;
     background-image: linear-gradient(to bottom right, rgb(69, 69, 255), purple, red,pink);
