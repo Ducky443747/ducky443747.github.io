@@ -1,34 +1,41 @@
 
 .fun {
-box-shadow: 0 5px 0 #252128;
-border-radius: 15px;
-}
-
-.fun:active {
-box-shadow: none;
-transform: translateY(5px);
-}
-body {font-family: 'Poppins', sans-serif;
-    @font-face {
-        font-family: Poppins;
-        src: url(Poppins-Regular);}
-
-}
-.gradientbackground {
-    background-image: linear-gradient(to bottom right, rgb(69, 69, 255), purple, red,pink);
-    background-size: 600% 600%;
-    animation: bgAnimatedGradient 15s infinite linear;
-}
-@keyframes bgAnimatedGradient{
-0% {
-    background-position: 0 85%;
-}
-
-50% {
-    background-position: 100% 20%;
-}
-
-100%{
-    background-position: 0% 85%;
-}
-}
+    box-shadow: 0 5px 0 #252128;
+    border-radius: 15px;
+    }
+    
+    .fun:active {
+    box-shadow: none;
+    transform: translateY(5px);
+    }
+    body {font-family: 'Poppins', sans-serif;
+        @font-face {
+            font-family: Poppins;
+            src: url(Poppins-Regular);}
+    
+    }
+    
+    body {    background: linear-gradient(326deg, #4545ff, #9674f9, #7f36fa, #f019f0);
+        background-size: 800% 800%;
+    
+        -webkit-animation: AnimatedGradient 21s ease infinite;
+        -moz-animation: AnimatedGradient 21s ease infinite;
+        animation: AnimatedGradient 21s ease infinite;}
+    
+    
+    
+    @-webkit-keyframes AnimatedGradient {
+        0%{background-position:0% 85%}
+        50%{background-position:100% 20%}
+        100%{background-position:0% 85%}
+    }
+    @-moz-keyframes AnimatedGradient {
+        0%{background-position:0% 85%}
+        50%{background-position:100% 20%}
+        100%{background-position:0% 85%}
+    }
+    @keyframes AnimatedGradient {
+        0%{background-position:0% 85%}
+        50%{background-position:100% 20%}
+        100%{background-position:0% 85%}
+    }
