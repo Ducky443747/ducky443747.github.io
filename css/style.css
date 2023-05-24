@@ -26,9 +26,9 @@ width: 70vw
     body {    background: linear-gradient(326deg, #4545ff, #9674f9, #7f36fa, #3d1796);
         background-size: 800% 800%;
     
-        -webkit-animation: AnimatedGradient 12s ease infinite;
-        -moz-animation: AnimatedGradient 12s ease infinite;
-        animation: AnimatedGradient 12s ease infinite;}
+        -webkit-animation: AnimatedGradient 60s ease infinite;
+        -moz-animation: AnimatedGradient 60s ease infinite;
+        animation: AnimatedGradient 60s ease infinite;}
     
     
     
