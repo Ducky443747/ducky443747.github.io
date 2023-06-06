@@ -63,7 +63,7 @@ body {
     position: relative;
     display: flex;
     align-items: center;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     background: #232323;
     color: #cdcdcd;
     padding: 6px;
@@ -79,7 +79,7 @@ body {
   }
   
   .menu-logo img {
-    max-height: 40px;
+    max-height: 35px;
     max-width: 100px;
     flex-shrink: 0;
   }
