@@ -20,3 +20,5 @@ new suggestions email! duckysgames69420@gmail.com
 
 [riddle school transfer 2](https://ducky443747.github.io/riddletransfer2/)
 
+[rooftop snipers 2](https://ducky443747.github.io/rooftopsnipers2/)
+
