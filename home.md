@@ -12,7 +12,7 @@ new suggestions email! duckysgames69420@gmail.com
 
 [learn to fly](https://ducky443747.github.io/learntofly/)
 
-[learn to fly 2](https://ducky443747.github.io/learntofly2/)
+[learn to fly 2](https://ducky443747.github.io/games/learntofly2/)
 
 [minecraft 1.8](https://ducky443747.github.io/minecraft-18/)
 
